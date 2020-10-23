@@ -1,3 +1,3 @@
-## Home page
+## Root page
 
-[About](./about.md)
+[Home](./index.html) | [About](./about.md)
