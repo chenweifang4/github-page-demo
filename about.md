@@ -1,3 +1,3 @@
 ## About page
 
-[Home](./index.md)
+[Root](./index.md) | [Home](./home.html)
